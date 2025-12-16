@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: samrat-portfolio-2024
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
